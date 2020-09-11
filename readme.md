@@ -1,7 +1,5 @@
 # Copy page URL including Your MVP Docs Champions Id
 
-## Microsoft Edge/Google Chrome Extension
-
 Sometimes you have a page URL like the following, which contains a few query string and #:  
 [https://docs.microsoft.com/en-us/dotnet/api/system.globalization.datetimeformatinfo.monthnames?view=netframework-4.8#System_Globalization_DateTimeFormatInfo_MonthNames](https://docs.microsoft.com/en-us/dotnet/api/system.globalization.datetimeformatinfo.monthnames?view=netframework-4.8#System_Globalization_DateTimeFormatInfo_MonthNames)
 
@@ -11,8 +9,10 @@ And you want to copy the URL including your Id, which means basically adding a q
 
 It's not easy to change the URL manually without breaking it, also keeping the Id in clipboard or elsewhere. Right?  
 
-This plugin makes it easy to copy the URL of the pages including your MVP Docs Champions Identification Tag in the complex URLs having some query strings or #. 
-After you install it, it adds a button to the Microsoft Edge or Google Chrome toolbar and it's enough to click on the button to copy the URL of the page, including your Id. It has also an option page which allows you to setup your Id to be used when copying the URL.
+## Microsoft Edge/Google Chrome Extension
+
+This is a Microsoft Edge/Google Chrome Extension which makes it easy to copy the URL of the pages including your MVP Docs Champions Identification Tag in the complex URLs having some query strings (? or &) or #. 
+After you install it, it adds a button to the browser toolbar and it's enough to click on the button to copy the URL of the page, including your Id. It has also an option page which allows you to setup your Id to be used when copying the URL.
 
 ## Installation
 Since I haven't published this plugin to Microsoft/Chrome store, you can download/clone it from here and manually add it to your browser. To do so:
