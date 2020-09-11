@@ -12,7 +12,7 @@ It's not easy to change the URL manually without breaking it, also keeping the I
 This plugin makes it easy to copy the URL of the pages including your MVP Docs Champions Identification Tag in the complex URLs having some query strings or #. 
 After you install it, it adds a button to the Microsoft Edge or Google Chrome toolbar and it's enough to click on the button to copy the URL of the page, including your Id. It has also an option page which allows you to setup your Id to be used when copying the URL.
 
-## Installation
+## Installation Microsoft Edge/Google Chrome Extension
 Since I haven't published this plugin to Microsoft/Chrome store, you can download/clone it from here and manually add it to your browser. To do so:
 
 1. Download or clone the repository.
